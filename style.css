@@ -97,14 +97,14 @@
 
         /* Hero Section */
         .hero {
-            background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), 
+            /*background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), */
                         url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800"><rect fill="%23f0f8ff" width="1200" height="800"/><circle fill="%23e6f3ff" cx="200" cy="200" r="100"/><circle fill="%23d1e9ff" cx="800" cy="300" r="150"/><circle fill="%23bce0ff" cx="1000" cy="600" r="120"/></svg>');
             height: 100vh;
             display: flex;
             align-items: center;
             justify-content: center;
             text-align: center;
-            color: white;
+            color: rgb(6, 0, 0);
             margin-top: 80px;
         }
 
