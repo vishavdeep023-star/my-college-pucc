@@ -15,7 +15,7 @@
 
         /* Header */
         .header {
-            background: linear-gradient(-45deg, #f4cacb, #621c08, #9cbbec, #05aaf7);
+            background: linear-gradient(-45deg, #f4cacb, #e6b1d7, #9cbbec, #05aaf7);
           background-size: 400% 400%;
            animation: gradientShift 12s ease infinite;
             color: rgb(244, 240, 240);
@@ -296,7 +296,7 @@
 
         /* News Section */
         .news {
-            background: #357dc5;
+            background: #ccddee;
         }
 
         .news-grid {
