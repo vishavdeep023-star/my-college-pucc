@@ -333,8 +333,7 @@
 
         /* Gallery Section */
         
-        .section{
-            background: #f0f1f3;
+        .section  {       background: #f0f1f3;
         }
         .gallery-grid {
             display: grid;
